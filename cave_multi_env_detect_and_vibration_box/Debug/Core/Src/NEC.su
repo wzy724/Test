@@ -1,0 +1,2 @@
+../Core/Src/NEC.c:16:6:HAL_TIM_IC_CaptureCallback	24	static
+../Core/Src/NEC.c:72:6:NEC_GetCmd	16	static

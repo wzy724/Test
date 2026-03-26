@@ -1,0 +1,7 @@
+../Core/Src/MySPI.c:10:6:SSPI_W_SS	16	static
+../Core/Src/MySPI.c:15:6:SSPI_W_SCK	16	static
+../Core/Src/MySPI.c:20:6:SSPI_W_MOSI	16	static
+../Core/Src/MySPI.c:25:9:SSPI_R_MISO	8	static
+../Core/Src/MySPI.c:30:6:SSPI_Start	8	static
+../Core/Src/MySPI.c:35:6:SSPI_Stop	8	static
+../Core/Src/MySPI.c:40:9:SSPI_SwapByte	24	static

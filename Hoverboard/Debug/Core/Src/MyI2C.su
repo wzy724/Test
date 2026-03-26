@@ -1,0 +1,9 @@
+../Core/Src/MyI2C.c:11:6:MyI2C_W_SCL	16	static
+../Core/Src/MyI2C.c:16:6:MyI2C_W_SDA	16	static
+../Core/Src/MyI2C.c:21:9:MyI2C_R_SDA	16	static
+../Core/Src/MyI2C.c:28:6:MyI2C_Start	8	static
+../Core/Src/MyI2C.c:38:6:MyI2C_Stop	8	static
+../Core/Src/MyI2C.c:45:6:MyI2C_SendByte	24	static
+../Core/Src/MyI2C.c:55:9:MyI2C_ReceiveByte	16	static
+../Core/Src/MyI2C.c:71:6:MyI2C_SendAck	16	static
+../Core/Src/MyI2C.c:78:9:MyI2C_ReceiveAck	16	static

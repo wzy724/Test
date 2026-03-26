@@ -1,0 +1,4 @@
+../Core/Src/MySPI.c:10:6:SSPI_W_SS	1
+../Core/Src/MySPI.c:15:6:SSPI_Start	1
+../Core/Src/MySPI.c:20:6:SSPI_Stop	1
+../Core/Src/MySPI.c:25:9:SSPI_SwapByte	1

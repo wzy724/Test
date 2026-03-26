@@ -1,0 +1,7 @@
+../Core/Src/MyFlash.c:8:10:MyFlash_ReadWord	1
+../Core/Src/MyFlash.c:13:10:MyFlash_ReadHalfWord	1
+../Core/Src/MyFlash.c:18:9:MyFlash_ReadByte	1
+../Core/Src/MyFlash.c:23:19:MyFlash_ErasePage	2
+../Core/Src/MyFlash.c:47:19:MyFlash_EraseAllPages	2
+../Core/Src/MyFlash.c:69:6:MyFlash_ProgramHalfWord	1
+../Core/Src/MyFlash.c:74:6:MyFlash_ProgramWord	1

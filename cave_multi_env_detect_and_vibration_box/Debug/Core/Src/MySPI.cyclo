@@ -1,0 +1,8 @@
+../Core/Src/MySPI.c:10:6:MySPI_W_SS	1
+../Core/Src/MySPI.c:15:6:MySPI_W_SCK	1
+../Core/Src/MySPI.c:20:6:MySPI_W_MOSI	1
+../Core/Src/MySPI.c:25:9:MySPI_R_MISO	1
+../Core/Src/MySPI.c:30:6:MySPI_Init	1
+../Core/Src/MySPI.c:36:6:MySPI_Start	1
+../Core/Src/MySPI.c:41:6:MySPI_Stop	1
+../Core/Src/MySPI.c:46:9:MySPI_Swapbyte	4

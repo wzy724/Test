@@ -1,0 +1,3 @@
+../Core/Src/op.c:28:6:MANUALSet_Duty	16	static
+../Core/Src/op.c:47:6:Mode_Switch	8	static
+../Core/Src/op.c:67:6:Warning_Switch	128	static

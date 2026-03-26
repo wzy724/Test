@@ -1,0 +1,6 @@
+../Core/Src/DHT11.c:14:6:DHT11_Switch_to_PP	24	static
+../Core/Src/DHT11.c:27:6:DHT11_Switch_to_IPU	24	static
+../Core/Src/DHT11.c:40:6:DHT11_WakeUp	8	static
+../Core/Src/DHT11.c:50:9:DHT11_AckCheck	16	static
+../Core/Src/DHT11.c:75:9:DHT11_RXByte	16	static
+../Core/Src/DHT11.c:107:9:DHT11_RXData	32	static

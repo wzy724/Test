@@ -1,0 +1,6 @@
+../Core/Src/MPU6050.c:11:6:MPU6050_WriteReg	16	static
+../Core/Src/MPU6050.c:23:9:MPU6050_ReadReg	24	static
+../Core/Src/MPU6050.c:40:6:MPU6050_Init	8	static
+../Core/Src/MPU6050.c:50:9:MPU6050_GetID	8	static
+../Core/Src/MPU6050.c:55:6:MPU6050_GetData	32	static
+../Core/Src/MPU6050.c:71:6:MPU6050_ReadBurst	24	static
